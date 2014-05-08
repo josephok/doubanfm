@@ -29,3 +29,7 @@ channel: 显示所有频道
 https://github.com/josephok/doubanfm/blob/master/douban_api.md
 ## License
 [BSD](https://github.com/josephok/doubanfm/blob/master/LICENSE)
+
+## Screenshot
+
+![](http://ww4.sinaimg.cn/large/90b90757gw1eg70efxrxtj20mv0abq51.jpg)
