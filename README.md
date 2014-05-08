@@ -26,6 +26,6 @@ channel: 显示所有频道
 ```
 
 ## Douban API
-
+https://github.com/josephok/doubanfm/blob/master/douban_api.md
 ## License
-BSD
+[BSD](https://github.com/josephok/doubanfm/blob/master/LICENSE)
