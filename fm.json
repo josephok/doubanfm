@@ -1,0 +1,8 @@
+{
+    "author": "Joseph Wu <josephok@qq.com>",
+    "date": "2014-5-8",
+    "requirements": ["python requests", "mpg123"],
+    "support": "Linux/Python 3", 
+    "version": 0.9,
+    "license": "BSD"
+}
