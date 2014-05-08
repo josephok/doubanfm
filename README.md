@@ -32,4 +32,5 @@ https://github.com/josephok/doubanfm/blob/master/douban_api.md
 
 ## Screenshot
 
-![](http://ww4.sinaimg.cn/large/90b90757gw1eg70efxrxtj20mv0abq51.jpg)
+![](http://ww2.sinaimg.cn/large/90b90757gw1eg70hc9f10j20mu07pjsq.jpg)
+![](http://ww2.sinaimg.cn/large/90b90757gw1eg70hpqb0dj20by05pglp.jpg)
